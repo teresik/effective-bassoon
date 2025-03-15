@@ -15,9 +15,7 @@
 .box-item-c{
     width: 400px;
     height: calc(100% - 30px);
-    float: left;
-    margin-left: 400px;
-    margin-top: 15px;
+    margin-left: calc(50% - 200px);
 }
 .box-item-r{
     width: 400px;
